@@ -1,7 +1,7 @@
 ﻿# Drola
-A Drone Monitering System using LORA
+A Drone Monitoring System using LORA
 
-We introduce a seperate Hardware unit for drones which can easily mount on any kind of commercial or non-commercial drones. DroLa End node consists of a GPS module, microcontroller, LoRa module and a seperate battery.
+Introducing a seperate Hardware unit for drones which can easily mount on any kind of commercial or non-commercial drones. DroLa End node consists of a GPS module, microcontroller, LoRa module and a seperate battery.
 
 ### Setting up Drola End Node
 Setup the units according to the shematics given in the `LoRa_End_Node`. End node microcontroller should contain the given firmware. Communication channel and addresses of Lora modules should be according to the given firmware.
